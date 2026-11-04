@@ -1,15 +1,13 @@
 <div align="center">
 
-# TOOSII TECH
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,50:312E81,100:4F46E5&height=220&section=header&text=TOOSII%20TECH&fontSize=54&fontColor=ffffff&fontAlignY=38&desc=Automation%20%7C%20Developer%20Tools%20%7C%20Digital%20Products&descAlignY=61&descSize=18&animation=fadeIn" alt="Toosii Tech animated profile header" width="100%" />
 
-### Software, automation, and digital products built for real-world use.
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&duration=3200&pause=900&color=6366F1&center=true&vCenter=true&width=720&lines=Building+useful+automation+for+real-world+problems;Creating+tools+that+are+simple+to+deploy+and+easy+to+use;Turning+ideas+into+reliable+digital+products" alt="Animated introduction" /></a>
 
 <p>
-  <a href="https://www.toosiitech.org/"><strong>Website</strong></a>
-  ·
-  <a href="https://github.com/toosii-tech-ke/TOOSII-XD-ULTRA"><strong>Featured Project</strong></a>
-  ·
-  <a href="https://toosiitechdevelopertools.zone.id/session"><strong>Session Generator</strong></a>
+  <a href="https://www.toosiitech.org/"><img src="https://img.shields.io/badge/Website-4F46E5?style=flat-square&logo=googlechrome&logoColor=white" alt="Website"></a>
+  <a href="https://github.com/toosii-tech-ke/TOOSII-XD-ULTRA"><img src="https://img.shields.io/badge/Featured%20project-181717?style=flat-square&logo=github&logoColor=white" alt="Featured project"></a>
+  <a href="https://toosiitechdevelopertools.zone.id/session"><img src="https://img.shields.io/badge/Session%20generator-25D366?style=flat-square&logo=whatsapp&logoColor=white" alt="Session generator"></a>
 </p>
 
 ![Profile views](https://komarev.com/ghpvc/?username=toosii-tech-ke&label=Profile%20views&color=4F46E5&style=flat-square)
@@ -18,36 +16,48 @@
 
 ---
 
-## About
+## About Toosii Tech
 
-I’m **Toosii Tech**, an independent developer and product builder focused on creating practical software that is accessible, dependable, and easy to deploy.
+I’m **Toosii Tech**, an independent developer and product builder focused on **automation, JavaScript development, Node.js applications, and self-hosted digital tools**.
 
-My work sits at the intersection of **JavaScript development, Node.js, WhatsApp automation, developer tooling, and self-hosted infrastructure**. I enjoy taking an idea from concept to a working product with a strong focus on usability, maintainability, and continuous improvement.
+I build practical systems that reduce repetitive work, simplify deployment, and give communities and independent users access to useful technology without unnecessary complexity.
 
-> **Build useful things. Make them reliable. Keep improving.**
+My approach is simple: understand the problem, automate the right parts, make the experience reliable, and keep improving through real-world use.
 
-## What I build
+## Automation is the focus
 
-- Automation tools that solve everyday communication and workflow problems
-- Developer utilities that simplify setup, deployment, and maintenance
-- Self-hosted applications designed for flexibility across VPS, Docker, hosting panels, and Termux
-- Digital products that are straightforward for communities and independent users to adopt
+<div align="center">
 
-## Featured work
+| **Connect** | **Automate** | **Scale** |
+| :---: | :---: | :---: |
+| Integrate platforms and services | Remove repetitive manual work | Deploy tools wherever they are needed |
+
+</div>
+
+I’m especially interested in automation that is **practical, accessible, and resilient**—from communication workflows and WhatsApp tools to deployment systems, developer utilities, and AI-assisted features.
+
+## Featured project
 
 ### [TOOSII-XD-ULTRA](https://github.com/toosii-tech-ke/TOOSII-XD-ULTRA)
 
-A feature-rich WhatsApp automation platform and lightweight deployment launcher built for practical self-hosting.
+A powerful WhatsApp automation platform and lightweight deployment launcher designed for practical self-hosting.
 
-**Highlights**
+```text
+Automation      →  Communication, moderation, downloads, AI, media, and utilities
+Deployment      →  VPS, Docker, hosting panels, and Termux
+Architecture    →  Node.js, Baileys, multi-device WhatsApp
+Experience      →  Simple setup, self-updating runtime, continuous improvement
+```
 
-- Multi-device support powered by Baileys
-- Self-updating runtime for simpler maintenance
-- Deployable across VPS, Docker, hosting panels, and Termux
-- Download, AI, media, moderation, group-management, and entertainment tools
-- Designed to keep deployment simple while the platform continues to evolve
+[**Explore TOOSII-XD-ULTRA →**](https://github.com/toosii-tech-ke/TOOSII-XD-ULTRA)
 
-[**Explore the project →**](https://github.com/toosii-tech-ke/TOOSII-XD-ULTRA)
+## What I build
+
+- **Automation systems** — tools that make everyday workflows faster and smarter
+- **Developer utilities** — practical software that improves setup and maintenance
+- **Self-hosted products** — flexible applications that users can run in their own environments
+- **Digital experiences** — simple interfaces built around real user needs
+- **AI-assisted tools** — useful features that enhance productivity without adding friction
 
 ## Technology focus
 
@@ -62,35 +72,34 @@ A feature-rich WhatsApp automation platform and lightweight deployment launcher 
 
 </div>
 
-## Current direction
+## Building next
 
-I’m currently focused on:
+- More dependable automation for communication and community workflows
+- Better deployment experiences for self-hosted applications
+- Useful AI-powered features for everyday productivity
+- A growing collection of practical tools under the Toosii Tech name
 
-- Building more reliable and maintainable automation products
-- Improving the deployment experience for self-hosted software
-- Exploring useful AI-powered features and developer workflows
-- Growing Toosii Tech into a trusted home for practical digital tools
+## Principles
 
-## Working principles
-
-| Principle | What it means in practice |
+| Principle | Standard |
 | --- | --- |
-| **Useful first** | Build for real needs, not unnecessary complexity. |
-| **Reliable by design** | Prefer stable, understandable solutions that people can depend on. |
-| **Simple to deploy** | Reduce friction from first setup to long-term maintenance. |
-| **Always improving** | Learn from feedback and keep shipping better iterations. |
+| **Useful over flashy** | Every feature should solve a real problem. |
+| **Automation with purpose** | Automate work that is repetitive, expensive, or error-prone. |
+| **Simple by default** | Good software should be understandable and easy to start. |
+| **Reliable in practice** | Build for real environments, not only demos. |
+| **Always improving** | Learn from users, ship updates, and raise the standard. |
 
-## Connect
+## Connect and collaborate
 
-Interested in automation, developer tools, or building something useful together? Explore my repositories or visit the [Toosii Tech website](https://www.toosiitech.org/).
+Have an automation idea, a developer-tool concept, or a product that needs building? Visit the [Toosii Tech website](https://www.toosiitech.org/) or explore my repositories on GitHub.
 
 <div align="center">
 
 <a href="https://github.com/toosii-tech-ke"><img src="https://img.shields.io/badge/GitHub-toosii--tech--ke-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile"></a>
 <a href="https://www.toosiitech.org/"><img src="https://img.shields.io/badge/Website-toosiitech.org-4F46E5?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Toosii Tech website"></a>
 
-<br><br>
+<br>
 
-<strong>Thanks for visiting.</strong>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,50:312E81,100:111827&height=120&section=footer&animation=fadeIn" alt="Animated profile footer" width="100%" />
 
 </div>
